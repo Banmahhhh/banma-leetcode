@@ -1,3 +1,7 @@
+'''
+Use stack, push right, itself, left, then pop
+after pushing, remove the connection fron the node and children
+'''
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
