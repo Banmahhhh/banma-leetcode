@@ -1,3 +1,6 @@
+'''
+efficient way to implement combination
+'''
 import operator
 import functools
 class Solution:
